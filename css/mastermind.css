@@ -1,0 +1,204 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #ECECEC;
+}
+
+section{
+  /* border: 2px black solid; */
+  padding: 10px;
+  max-width: 500px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+
+#logo{
+  margin-left: 30px;
+  position: relative;
+  margin: 20px;
+  width: 300px;
+}
+
+header{
+  border-bottom: #bfbfbf solid 5px;
+  background-color: white;
+}
+
+button{
+  width: 90px;
+  background-color: white;
+  height: 90px;
+  padding: 0px;
+  border-radius: 8px;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+h1{
+  font-size: 30px;
+  margin-left: 140px;
+}
+
+p{
+  font-size: 24px;
+}
+#uitleg{
+margin-left: 1210px;
+bottom: 15px;
+border-color: grey;
+position: fixed;
+width: 340px;
+text-align: justify;
+background-color: white;
+border-radius: 2%;
+}
+
+.buttonShape{
+  padding:0px;
+  width: 33px;
+  height: 34px;
+  border-radius: 50%;
+  margin-top: 30px;
+}
+
+#button_1{
+  background-color: red;
+}
+#button_2{
+  background-color: green;
+}
+#button_3{
+  background-color: blue;
+}
+#button_4{
+  background-color: orange;
+}
+#button_5{
+  background-color: hotpink;
+}
+#button_6{
+  background-color: purple;
+}
+
+#dotveld{
+position: absolute;
+top: 50px;
+}
+
+#dotveld_1{
+position: relative;
+bottom: 1451px;
+}
+
+#dotveld_2{
+position: relative;
+bottom: 1358px;
+}
+#dotveld_3{
+position: relative;
+bottom: 1271px;
+}
+#dotveld_4{
+position: relative;
+bottom: 1180px;
+}
+#dotveld_5{
+position: relative;
+bottom: 1087px;
+}
+#dotveld_6{
+position: relative;
+bottom: 991px;
+}
+#dotveld_7{
+position: relative;
+bottom: 903px;
+}
+#dotveld_8{
+position: relative;
+bottom: 810px;
+}
+#dotveld_9{
+position: relative;
+bottom: 713px;
+}
+#dotveld_10{
+position: relative;
+bottom: 625px;
+}
+
+#dotveld_11{
+position: relative;
+bottom: 533px;
+}
+
+
+.btnmargin{
+  margin-top: 30px;
+  box-shadow: 0 0 25px grey;
+
+}
+
+.status_1{
+  background-color: white;
+  width: 150px;
+  position: relative;
+  left: 500px;
+  top: 140px;
+  box-shadow: 0 0 25px grey;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.status_2{
+  background-color: white;
+  width: 150px;
+  position: absolute;
+  left: 540px;
+  top: 140px;
+  box-shadow: 0 0 25px grey;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.status_3{
+  background-color: white;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 500px;
+  top: 180px;
+  box-shadow: 0 0 25px grey;
+  border-radius: 50%;
+}
+
+
+.status_4{
+  background-color: white;
+  width: 150px;
+  position: absolute;
+  left: 540px;
+  top: 179px;
+  box-shadow: 0 0 25px grey;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+
+#check{
+  width: 140px;
+  height: 40px;
+}
+
+#opnieuw{
+  width: 140px;
+  height: 40px;
+margin-left: 16px;
+}
